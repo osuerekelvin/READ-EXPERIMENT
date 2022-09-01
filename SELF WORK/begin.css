@@ -1,0 +1,11 @@
+p {
+border: 2px solid blue;
+padding: 30px;
+}
+
+div{
+    background-color: beige;
+    background-size: 30px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
